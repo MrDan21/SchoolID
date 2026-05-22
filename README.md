@@ -1,6 +1,6 @@
 # Sistema de Control de Asistencia Escolar Biométrico
 
-Este proyecto es una solución integral para el registro de asistencia mediante reconocimiento facial. Conformado por:
+Este proyecto es una solución para el registro de asistencia mediante reconocimiento facial. Conformado por:
 1. **Frontend y Backend Administrativo:** Desarrollado en Laravel.
 2. **Microservicio de Reconocimiento Facial:** Desarrollado en Python con FastAPI.
 
